@@ -1,0 +1,6 @@
+[core]
+    remote = google_drive2
+['remote "local_storage"']
+    url = ../../Storage
+['remote "google_drive2"']
+    url = gdrive://1KyyxiU71wvJFZPynr7YYIp9bA0E7MXUm
